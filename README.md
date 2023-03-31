@@ -4,4 +4,5 @@ Algorithms are:
 1. LDLT
 2. Cholesky
 3. Crout
+
 Goal of tool was to achieve significant speedup using parallel implementation in OpenMP.
